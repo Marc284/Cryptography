@@ -1,0 +1,4 @@
+from client to server: com.sun.crypto.provider.DESKey@1821a
+from client to server: "end key"
+from server to client: "Key accepted"
+from client to server: "Check connection message"
