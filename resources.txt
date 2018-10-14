@@ -1,0 +1,4 @@
+Resources we have used:
+https://www.mkyong.com/java/jce-encryption-data-encryption-standard-des-tutorial/
+https://stackoverflow.com/questions/45502635/generating-a-des-key-and-passing-it-through-the-socket-in-java
+https://medium.com/@weblab_tech/encrypted-client-server-communication-protection-of-privacy-and-integrity-with-aes-and-rsa-in-c7b180fe614e
